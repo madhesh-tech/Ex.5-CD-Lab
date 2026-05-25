@@ -3,7 +3,7 @@
 ## Name : Madhesh I
 ## Register Number:212224220055
 
-## Date:19/05/2026
+## Date:25/05/2026
 
 ## AIM:
 To write a YACC program to recognize the grammar a^nb where n>=10.
